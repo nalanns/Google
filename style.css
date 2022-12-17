@@ -27,7 +27,6 @@
 }
 
 #iconImg{
-    /* width: 25px; */
     height: 25px;
     margin-top: 5px;
     position: relative;
@@ -66,7 +65,6 @@ button:hover{
 
 .logo{
     margin-top: 200px;
-    /* margin-left */
     position: relative;
     left: 70px;
 }
